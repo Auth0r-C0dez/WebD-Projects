@@ -1,0 +1,20 @@
+#lbl {
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Times New Roman', Times, serif;
+}
+#divi {
+    text-align: center;
+}
+.but{
+    font-size: 1.8em;
+    color: black;
+    background-color: rgb(0, 149, 255);
+    border-radius: 8px;
+    cursor:grab;
+    transition: background-color 0.10s;
+}
+.but:hover {
+    background-color: rgb(0, 255, 255);
+}
