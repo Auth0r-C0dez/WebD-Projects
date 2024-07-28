@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    font-size: 1.5em;
+}
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #3e4444;
+}
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #2f5804;
+}
+#button {
+    font-size: 1em;
+    background-color: #080b01;
+    border-radius: 0.5em;
+    color: aliceblue;
+}
+#p1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #405d27
+}
+#p2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c1946a;
+}
