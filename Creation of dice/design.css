@@ -1,0 +1,14 @@
+#btn {
+    text-align: center;
+    font-size: 3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    text-align: center;
+    padding: 5px 25px;
+    border-radius: 100px;
+}
+#lbl {
+    color: rgb(75, 22, 183);
+    font-size: 3em;
+}
