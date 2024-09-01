@@ -1,0 +1,47 @@
+body{
+    background-color: #f9f1f0;
+}
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+form{
+    background-color: #e8b4b8;
+    text-align: center;
+    max-width: 350px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px #67595e;
+    margin: auto;
+    padding: 25px;
+
+}
+
+#textbox {
+    width: 50%;
+    text-align: center;
+    font-size: 1em;
+    border-radius: 4px;
+    
+}
+
+label {
+    font-size: 1.27em;
+    font-weight: bold;
+}
+button {
+    margin-top: 15px;
+    background-color: #89737b ;
+    color: #f9f1f0;
+    font-size: 1.2em;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #aa1945;
+}
+ 
+p {
+    color: hsl(243, 71%, 23%);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 1.29em;
+}
